@@ -27,3 +27,16 @@ Week 3:
 - Compare and contrast different data types present in TensorFlow Data class with the practice quiz while elaborating more on data operations like one-hot encoding, bucketing and tokenizing
 - Apply various data operations in the assignment to create different types of feature columns which you see frequently in different ML problem statements, compile and train them on a custom csv dataset that is loaded using tf.Data API
 - Assignment: Classify Structured Data
+
+Week 4:
+- Identify bottlenecks in your input pipelines
+- Improve your pipelines impacting your model training
+- Learn about caching and parallelizing your inputs
+- Assignment: Parallelization with TFDS
+- Optional : Publishing your Datasets, Colab
+
+Certificate:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99332005/165308930-9e066742-b81f-4e08-8f32-9e55cc17accf.png">
+</p>
+
